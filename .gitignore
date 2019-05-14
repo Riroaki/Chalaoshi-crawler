@@ -1,0 +1,6 @@
+chalaoshi/__pycache__
+chalaoshi/spiders/__pycache__
+chalaoshi/data/*.txt
+chalaoshi/saved_records
+.idea/
+.DS_Store
